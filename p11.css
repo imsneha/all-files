@@ -1,0 +1,38 @@
+body
+{
+background-image:url('/home/itsec3/Downloads/naturetwo.jpeg');
+background-repeat:no-repeat;
+height:100%;
+width:100%;
+background-color:pink;
+font-size:30px;
+color:darkblue;
+text-transform:capitalizer;
+text-shadow:4px 4px 8px black;
+border:3px inset red;
+text-align:center;
+text-indent:2cm;
+text-decoration:overline;
+font-weight:italic;
+border-top-style:dotted;
+border-style:solid;
+border-color:red yellow green black;
+
+}
+
+a:link
+{
+color:red;
+}
+a:visited
+{
+color:green;
+}
+a:hover
+{
+color:hotpink;
+}
+a:active
+{
+color:blue;
+}
